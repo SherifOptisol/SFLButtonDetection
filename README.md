@@ -22,6 +22,9 @@ This project repo aims to detect the knob and spring in the shown components bas
 ## Usage
 
 1. Run the inference file
+```
+python inference.py
+```
 2. See the detection video from the opencv window
 3. The inferred video will be saved in the [assests](assests) folder
 

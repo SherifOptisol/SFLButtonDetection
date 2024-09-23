@@ -3,8 +3,8 @@
 ## Overview
 This project repo aims to detect the knob and spring in the shown components based on multiple colours like silver, pink and gold. For this poc purpose, we have used the cv functionalities to detect these colours and to draw contours around them without any deep learning models
 
-[Component without spring](assests/Media(2).jpg)
-[Component with spring](assests/Media(5).jpg)
+![Component without spring](assests/Media(2).jpg)
+![Component with spring](assests/Media(5).jpg)
 
 ## Requirements
 
